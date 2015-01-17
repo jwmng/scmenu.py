@@ -29,8 +29,8 @@ class Menu():
 
         # Get arguments
         self.barData = barData
-        self.selected = selected
         self.size = len(options)
+        self.selected = selected % self.size
         self.name = name[0:self.screensize[1]-20]
 
         # Initialise lists
