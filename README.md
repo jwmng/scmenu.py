@@ -27,7 +27,7 @@ In short:
     print sampleMenu.show()
 
 Generates:
-![screenshot](example.PNG)
+![screenshot](doc/example.PNG)
 
 A working example is contained in `example.py`
 
